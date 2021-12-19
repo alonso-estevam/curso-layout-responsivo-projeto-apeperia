@@ -5,3 +5,5 @@ Projeto da página Apeperia, feito durante o curso de "Layouts Responsivos: trab
 Nesse curso tive contato com os conceitos básicos de Mobile First, desenvolvendo uma página web do mobile até o desktop. 
 
 Também aprendi a usar os atalhos proporcionados pela ferramenta Emmet, que já vem com o VS Code, e entendi um pouco mais sobre a semântica HTML e sua importância para os mecanismos de SEO e para uma melhor acessibilidade.
+
+Link do protótipo no Figma [aqui](https://www.figma.com/file/FidBn9f7BoBCoEs19EzbUD/Apeperia-Mobile-First?node-id=0%3A1).
